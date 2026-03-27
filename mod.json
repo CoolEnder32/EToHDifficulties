@@ -1,0 +1,20 @@
+{
+	"geode": "5.4.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "coolender32.etohdifficulties",
+	"name": "Etoh Difficulties",
+	"version": "v1.0.0",
+	"developer": "CoolEnder32",
+	"description": "Eternal Towers of Hell difficulties in GD!",
+	"resources": {
+		"files": ["ratings.json", "easy.png", "medium.png", "hard.png", "diff.png", "chall.png", "intense.png", "rem.png", "insane.png", "extreme.png", "terri.png", "cata.png", "horri.png", "unreal.png", "nil.png"]
+	},
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}

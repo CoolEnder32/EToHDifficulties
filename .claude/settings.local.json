@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.aredl.net)",
+      "Bash(curl -L \"https://docs.google.com/spreadsheets/d/1N1OtsIsNmvxKOEn_mfo9E33Ho3lIkUxf/export?format=csv\")"
+    ]
+  }
+}

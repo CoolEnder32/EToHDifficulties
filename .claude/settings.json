@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/GeodeSDK/loader/include/Geode/utils/**)",
+      "WebFetch(domain:aredl.net)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:docs.google.com)",
+      "WebFetch(domain:doc-0s-bc-sheets.googleusercontent.com)",
+      "Bash(cmake --build . --config RelWithDebInfo)"
+    ]
+  }
+}
